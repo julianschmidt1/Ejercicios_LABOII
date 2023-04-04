@@ -1,0 +1,15 @@
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\bin\Debug\net6.0\OOPEjercicio1.exe
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\bin\Debug\net6.0\OOPEjercicio1.deps.json
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\bin\Debug\net6.0\OOPEjercicio1.runtimeconfig.json
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\bin\Debug\net6.0\OOPEjercicio1.dll
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\bin\Debug\net6.0\OOPEjercicio1.pdb
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\OOPEjercicio1.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\OOPEjercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\OOPEjercicio1.AssemblyInfoInputs.cache
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\OOPEjercicio1.AssemblyInfo.cs
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\OOPEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\OOPEjercicio1.dll
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\refint\OOPEjercicio1.dll
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\OOPEjercicio1.pdb
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\OOPEjercicio1.genruntimeconfig.cache
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio1\obj\Debug\net6.0\ref\OOPEjercicio1.dll
