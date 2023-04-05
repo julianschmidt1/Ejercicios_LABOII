@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace OOPEjercicio1
+﻿namespace OOPEjercicio1
 {
     internal class Program
     {
@@ -17,7 +15,10 @@ namespace OOPEjercicio1
             Console.WriteLine(miCuenta.mostrar());
 
             saldo = PedirNumeroDecimal("Monto a ingresar: ");
-            miCuenta.ingresar(saldo);
+            if (miCuenta.ingresar(saldo))
+            {
+                Console.WriteLine("Saldo acreditado con exito");
+            }
             Console.WriteLine(miCuenta.mostrar());
 
         }
@@ -47,7 +48,7 @@ namespace OOPEjercicio1
                 this.cantidad = cantidad;
             }
 
-            public string GetTituar()
+            public string GetTitular()
             {
                 return titular;
             }

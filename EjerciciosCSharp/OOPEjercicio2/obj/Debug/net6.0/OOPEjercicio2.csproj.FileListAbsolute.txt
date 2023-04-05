@@ -1,0 +1,15 @@
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\bin\Debug\net6.0\OOPEjercicio2.exe
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\bin\Debug\net6.0\OOPEjercicio2.deps.json
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\bin\Debug\net6.0\OOPEjercicio2.runtimeconfig.json
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\bin\Debug\net6.0\OOPEjercicio2.dll
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\bin\Debug\net6.0\OOPEjercicio2.pdb
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\OOPEjercicio2.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\OOPEjercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\OOPEjercicio2.AssemblyInfoInputs.cache
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\OOPEjercicio2.AssemblyInfo.cs
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\OOPEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\OOPEjercicio2.dll
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\refint\OOPEjercicio2.dll
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\OOPEjercicio2.pdb
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\OOPEjercicio2.genruntimeconfig.cache
+C:\Users\Julian\Desktop\Ejercicios_LABOII\EjerciciosCSharp\OOPEjercicio2\obj\Debug\net6.0\ref\OOPEjercicio2.dll
